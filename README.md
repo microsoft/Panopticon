@@ -8,7 +8,11 @@ with these notebooks, we recommend installing Anaconda3 which will include Jupyt
 
 We used this simulator to experiment with different row activation workloads and evaluate Panopticon's overhead.
 
-For more details on Panopticon please read our [DRAMSec 2021 paper](https://t8k2.com/publications/dramsec/2021/panopticon.pdf).
+For more details on Panopticon please read our paper:
+
+Tanj Bennett, Stefan Saroiu, Alec Wolman, Lucian Cojocar  
+[Panopticon: A Complete In-DRAM Rowhammer Mitigation](https://stefan.t8k2.com/publications/dramsec/2021/panopticon.pdf)\
+<em>Proceedings of the 1st Workshop on DRAM Security (DRAMSec)</em>,  June 2021.
 
 
 ## Contributing
